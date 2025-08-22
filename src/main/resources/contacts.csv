@@ -1,0 +1,9 @@
+Name,Email,Phone,City
+Alex Johnson,alex@example.com,07123456789,London
+Maria Gomez,maria@example.com,07234567890,Manchester
+,invalid@example.com,07123456780,Liverpool
+James Brown,james[at]example.com,07123456781,Bristol
+Linda Green,linda@example.com,,Leeds
+David Wilson,david@example.com,07456789012,London
+Sophia Patel,sophia@example.com,07567890123,Manchester
+Chris Lee,chris@example.com,07000000000,Liverpool
